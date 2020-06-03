@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PermissionHelper</string>
+    <string name="action_all">All Runtime Permissions</string>
+    <string name="action_granted">Granted Runtime Permissions</string>
+    <string name="action_settings">Open Settings</string>
+</resources>
